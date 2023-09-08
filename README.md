@@ -1,9 +1,9 @@
 
-  ![logo](https://cdn2.hubspot.net/hubfs/2176909/Blog_Data%20is%20Not%20Oil,%20It%20Is%20Land-1.png)
+  ![logo](https://png.pngtree.com/thumb_back/fh260/background/20201024/pngtree-data-science-background-banner-template-design-image_433510.jpg)
 <h1 align="center">Hi 👋, I'm Hareem Iftikhar</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.webp?cid=ecf05e47yklrekyn7msshml91suu4hytjn7hg3yo7xcmevdu&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/720114/screenshots/3750183/data-inspect.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hareem19&label=Profile%20views&color=0e75b6&style=flat" alt="hareem19" /> </p>
 

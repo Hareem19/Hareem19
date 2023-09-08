@@ -1,5 +1,5 @@
 
-  ![logo](https://png.pngtree.com/thumb_back/fh260/background/20201024/pngtree-data-science-background-banner-template-design-image_433510.jpg)
+  ![logo](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Hareem Iftikhar</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan.</h3>
 
